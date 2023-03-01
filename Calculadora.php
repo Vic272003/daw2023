@@ -3,6 +3,7 @@
      * Esta es la clase calculadora donde se podrá sumar o restar
      * @version 1.11
      * @author Victor Martinez Escobar
+     * Modificamos para que git lo detecte
      */
 
      class Calculadora{
